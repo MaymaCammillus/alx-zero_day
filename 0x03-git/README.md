@@ -1,1 +1,4 @@
- good
+#!/bin/bash
+echo "ALX"
+echo "School"
+
